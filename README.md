@@ -1,5 +1,6 @@
 # Knights
 A Knights and Knaves game using propositional logic to have a computer determine queries given prior. This was submitted for the Harvard CS50 AI course.
+logic.py contains all definitions for propositional logic, while puzzle.py contains the actual puzzles that are solved. If you wish to create and solve your own puzzle, you can wipe one of the knowledge sets and create your own puzzles inside it.
 
 Puzzle 0 is the puzzle from the Background. It contains a single character, A.
     
